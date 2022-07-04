@@ -5,3 +5,4 @@ it has one thing to configure between api code and local code for the autocomple
 in utils file there is two functions with same name one is using local ARRAY and the other is using data
 from json place holder 
 
+for the local one i set the response time to be 200ms.
